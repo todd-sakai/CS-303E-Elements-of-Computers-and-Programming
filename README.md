@@ -4,10 +4,14 @@
 **Instructor:** Dr. Bill Young  
 
 ## Course Overview
-C S 303E is the foundational course in the Programming and Computation series, designed specifically for non-CS majors pursuing the Elements of Computing certificate. The course covers the essential elements of programming, basic software design, and computer hardware. 
+C S 303E is the foundational course in the Programming and Computation series designed specifically for non-CS majors. This course introduces the basics of programming and computational thinking using Python. It covers Python syntax, algorithm development, and problem-solving techniques for a wide variety of applications. No prior programming experience is required or assumed.
 
-## Key Details
-* **Primary Language:** Python (focusing on syntax and standard features)
-* **Prerequisites:** None. No prior programming experience is required or assumed.
-* **Coursework:** Weekly programming homeworks and three larger projects. All code is written individually.
-* **Textbook (Optional):** *Starting Out with Python* by Tony Gaddis.
+## Topics Covered
+Throughout the semester, the coursework progresses through the following foundational concepts:
+* Python Basics & Operations
+* Control Structures (Selections and Loops)
+* Functions and Modular Design
+* Objects and Classes
+* Advanced Data Types (Strings, Lists, Tuples, Sets, and Dictionaries)
+* File I/O Manipulation
+* Recursion
