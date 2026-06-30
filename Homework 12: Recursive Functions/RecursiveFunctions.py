@@ -1,7 +1,8 @@
+# Assignment: HW 12
 # File: RecursiveFunctions.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: CS303E
+# Course: C S 303E
 # 
 # Date: 11.21.25
 # Description of Program: This program is meant to help me build proficiency in writing recursive functions

@@ -1,11 +1,12 @@
-# Assignment: HW8
+# Assignment: HW 8
 # File: MyStringFunctions.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: CS303E
+# Course: C S 303E
 # 
 # Date: 10.17.25
 # Description of Program: Practice with string manipulation functions without using existing str class methods.
+
 def myAppend( s, ch ):
         # Return a new string that is like s but with 
         # character ch added at the end

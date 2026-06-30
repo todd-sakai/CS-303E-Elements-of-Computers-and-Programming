@@ -1,10 +1,10 @@
-# Assignment: HW5
+# Assignment: HW 5
 # File: LuckySevens.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: CS303E
+# Course: C S 303E
 # 
-# Date: 9/30/25
+# Date: 9.30.25
 # Description of Program: The user gambles a starting stake by repeatedly rolling two dice, winning $4 on a sum of 7 and losing $1 on any other sum, until their money is gone. You can play until you don't want to anymore
 
 def main():

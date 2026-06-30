@@ -1,8 +1,8 @@
-# Assignment: HW11
+# Assignment: HW 11
 # File: WordleAssistant.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: CS303E
+# Course: C S 303E
 # 
 # Date: 11.14.25
 # Description of Program: 

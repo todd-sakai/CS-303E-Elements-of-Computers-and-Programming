@@ -1,8 +1,8 @@
-# Assignment: HW10
+# Assignment: HW 10
 # File: RadixSort.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: CS303E
+# Course: C S 303E
 # 
 # Date: 11.3.25
 # Description of Program: A program that sorts a list of randomly generated numbers using the Radix sorting method

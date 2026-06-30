@@ -1,4 +1,4 @@
-# Assignment: HW1
+# Assignment: HW 1
 # File: Initials.py
 # Student: Todd Sakai 
 # UT EID: tfs523

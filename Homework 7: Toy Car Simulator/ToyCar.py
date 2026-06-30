@@ -1,9 +1,10 @@
+# Assignment: HW 7
 # File: ToyCar.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: C S 303E
+# Course: C S 303E
 # 
-# Date: 10/15/25
+# Date: 10.15.25
 # Description of Program: This program simulates a toy car moving in a 2D grid.
 
 NORTH = 90

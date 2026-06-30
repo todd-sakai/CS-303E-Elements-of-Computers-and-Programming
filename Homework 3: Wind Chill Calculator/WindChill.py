@@ -1,9 +1,10 @@
+# Assignment: HW 3
 # File: WindChill.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: CS303E
+# Course: C S 303E
 # 
-# Date: 9/15/25
+# Date: 9.15.25
 # Description of Program: Takes the temperature in fahrenheit and the wind speed in miles per hour then gives back the calculated wind chill in fahrenheit and celcius
 
 def main():

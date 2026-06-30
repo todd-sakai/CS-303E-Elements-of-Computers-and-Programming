@@ -1,8 +1,8 @@
-# Assignment: HW9
+# Assignment: HW 9
 # File: MyListFunctions.py
 # Student: Todd Sakai
 # UT EID: tfs523
-# Course Name: CS 303E
+# Course: C S 303E
 # 
 # Date: 10.24.25
 # Description of Program: A collection of functions to manipulate strings without using existing methods
